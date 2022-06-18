@@ -1,0 +1,9 @@
+﻿  yurdakul_yurdakul_MustafaAtinc_HW4.cpp
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4.cpp(348): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4.cpp(354): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4.cpp(366): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4.cpp(373): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4.cpp(385): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4\yurdakul_yurdakul_mustafaatinc_hw4.cpp(396): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  yurdakul_yurdakul_MustafaAtinc_HW4.vcxproj -> C:\Users\MONSTER\Documents\Visual Studio 2015\Projects\yurdakul_yurdakul_MustafaAtinc_HW4\Debug\yurdakul_yurdakul_MustafaAtinc_HW4.exe
+  yurdakul_yurdakul_MustafaAtinc_HW4.vcxproj -> C:\Users\MONSTER\Documents\Visual Studio 2015\Projects\yurdakul_yurdakul_MustafaAtinc_HW4\Debug\yurdakul_yurdakul_MustafaAtinc_HW4.pdb (Partial PDB)

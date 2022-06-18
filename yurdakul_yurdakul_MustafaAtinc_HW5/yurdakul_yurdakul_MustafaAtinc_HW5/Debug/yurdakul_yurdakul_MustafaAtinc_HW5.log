@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw5\yurdakul_yurdakul_mustafaatinc_hw5\source.cpp(558): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw5\yurdakul_yurdakul_mustafaatinc_hw5\source.cpp(565): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw5\yurdakul_yurdakul_mustafaatinc_hw5\source.cpp(572): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw5\yurdakul_yurdakul_mustafaatinc_hw5\source.cpp(579): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw5\yurdakul_yurdakul_mustafaatinc_hw5\source.cpp(594): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw5\yurdakul_yurdakul_mustafaatinc_hw5\source.cpp(600): warning C4018: '<': signed/unsigned mismatch
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw5\yurdakul_yurdakul_mustafaatinc_hw5\source.cpp(608): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+c:\users\monster\documents\visual studio 2015\projects\yurdakul_yurdakul_mustafaatinc_hw5\yurdakul_yurdakul_mustafaatinc_hw5\source.cpp(615): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  yurdakul_yurdakul_MustafaAtinc_HW5.vcxproj -> c:\users\monster\documents\visual studio 2015\Projects\yurdakul_yurdakul_MustafaAtinc_HW5\Debug\yurdakul_yurdakul_MustafaAtinc_HW5.exe
+  yurdakul_yurdakul_MustafaAtinc_HW5.vcxproj -> c:\users\monster\documents\visual studio 2015\Projects\yurdakul_yurdakul_MustafaAtinc_HW5\Debug\yurdakul_yurdakul_MustafaAtinc_HW5.pdb (Partial PDB)
